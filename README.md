@@ -2,6 +2,7 @@
 3D representation of the quantum bloch sphere and its gates
 
 To run: 
+
   -Copy the repository or download as ZIP
   -Set yourself in the directory you placed it in
   ```console
