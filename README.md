@@ -13,7 +13,7 @@ To run:
   ```
   -Acess the following link on your browser
   ```console
-  [python -m http.server](http://localhost:8000/code/blochSphereSim.html)
+  http://localhost:8000/code/blochSphereSim.html
   ```
 
 
